@@ -3,13 +3,15 @@
 [中文](README.md) [English](README_EN.md) [日本語](README_JP.md)
 
 
-<h1 align="center">Jvedio</h1>
+<h1 align="center">JvedioNew</h1>
 
-
+<div align="center" >
+<img src="https://s1.ax1x.com/2022/06/11/XcePQf.png"><h3 >从Git项目Jvedio克隆而来, 用于原项目的维护开发</h3>
+</div>
 
 
 <div align="center" >
-<img src="https://s1.ax1x.com/2022/06/11/XcePQf.png"><h3 >本地视频管理</h3>
+<img src="https://s1.ax1x.com/2022/06/11/XcePQf.png"><h3 >Jvedio</h3><h3 >本地视频管理</h3>
 </div>
 
 
